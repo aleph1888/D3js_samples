@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<!-- Estilos -->
+		<link rel="stylesheet" type="text/css" href="css/estilos.css">
+		<link rel="stylesheet" href="css/jquery-ui.css">
+
+		<!-- Javascript de terceros -->
+		<script type="text/javascript" src="js/lib/d3.js" charset="utf-8"></script>
+		<script type="text/javascript" src="js/lib/jquery.js" charset="utf-8"></script>
+		<script src="js/lib/jquery-ui.js"></script>
+
+
+		<!-- Javascript nuestro -->
+		<script type="text/javascript" src="js/cargador.js?1.0.0"></script>
+		<script type="text/javascript" src="js/json.js?1.0.0"></script>
+		<script type="text/javascript" src="js/layout.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="js/arbol.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="js/filtros.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="js/pop_up.js?1.0.0" charset="utf-8"></script>
+		<script type="text/javascript" src="js/herramientas.js?1.0.0" charset="utf-8"></script>
+
+		<!-- favicon -->
+		<link rel="shortcut icon" href="favicon.ico">
+	</head>
+
+	<body>
+		<div id="div_json"></div>
+		<hr>
+		<div id="div_filtros"></div>
+		<hr>
+		<div id="div_layout"></div>
+		<div id="div_pop_up"></div>
+		<script>
+
+			var miCargador = new cargador("div_json", "div_filtros", "div_layout", "div_pop_up");
+
+			window.onload = function() {
+				miCargador.init();
+			}
+
+		</script>
+
+	</body>
+
+</html>
