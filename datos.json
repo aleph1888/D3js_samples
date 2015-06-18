@@ -1,3 +1,4 @@
+// Especificación del formato: https://github.com/aleph1888/D3js_samples/blob/sample1/js/json.js#L7
 [
 	{	"familia": "A", 
 		"nodos": [ 
