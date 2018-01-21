@@ -14,9 +14,9 @@
 			{
 				"nombre": "End",
 				"relacion": "padre",
-				"edad": -40,
+				"edad": 0,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Lack",
 					"dias": [1]
 				}
@@ -25,7 +25,7 @@
 			{
 				"nombre": "flow",
 				"relacion": "hija",
-				"edad": 10,
+				"edad": 50,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Lovely",
@@ -36,7 +36,7 @@
 			{
 				"nombre": "motion",
 				"relacion": "hija",
-				"edad": 20,
+				"edad": 60,
 				"actividades": [{
 						"tipo": "profesion",
 						"nombre": "Express",
@@ -47,7 +47,7 @@
 			{
 				"nombre": "length",
 				"relacion": "hija",
-				"edad": 30,
+				"edad": 70,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Evolve",
@@ -58,9 +58,9 @@
 			{
 				"nombre": "create",
 				"relacion": "hijo",
-				"edad": -10,
+				"edad": 30,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Far",
 					"dias": [1]
 				}
@@ -69,9 +69,9 @@
 			{
 				"nombre": "ether",
 				"relacion": "hijo",
-				"edad": -20,
+				"edad": 20,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Excess",
 					"dias": [1]
 				}
@@ -81,9 +81,9 @@
 			{
 				"nombre": "god",
 				"relacion": "hijo",
-				"edad": -30,
+				"edad": 10,
 				"actividades": [{
-						"tipo": "profesion",
+						"tipo": "hobbie",
 						"nombre": "Twist",
 						"dias": [1]
 					}
@@ -105,11 +105,11 @@
 				]
 			},
 			{
-				"nombre": "nole",
+				"nombre": "hole",
 				"relacion": "padre",
-				"edad": -40,
+				"edad": 0,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Lack",
 					"dias": [2]
 				}
@@ -118,7 +118,7 @@
 			{
 				"nombre": "energy",
 				"relacion": "hija",
-				"edad": 10,
+				"edad": 50,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Lovely",
@@ -129,7 +129,7 @@
 			{
 				"nombre": "light",
 				"relacion": "hija",
-				"edad": 20,
+				"edad": 60,
 				"actividades": [{
 						"tipo": "profesion",
 						"nombre": "Express",
@@ -140,7 +140,7 @@
 			{
 				"nombre": "inertia",
 				"relacion": "hija",
-				"edad": 30,
+				"edad": 70,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Evolve",
@@ -151,9 +151,9 @@
 			{
 				"nombre": "form",
 				"relacion": "hijo",
-				"edad": -10,
+				"edad": 30,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Far",
 					"dias": [2]
 				}
@@ -162,9 +162,9 @@
 			{
 				"nombre": "entropy",
 				"relacion": "hijo",
-				"edad": -20,
+				"edad": 20,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Excess",
 					"dias": [2]
 				}
@@ -173,9 +173,9 @@
 			{
 				"nombre": "gravitino",
 				"relacion": "hijo",
-				"edad": -30,
+				"edad": 10,
 				"actividades": [{
-						"tipo": "profesion",
+						"tipo": "hobbie",
 						"nombre": "Twist",
 						"dias": [2]
 					}
@@ -199,9 +199,9 @@
 			{
 				"nombre": "death",
 				"relacion": "padre",
-				"edad": -40,
+				"edad": 0,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Lack",
 					"dias": [3]
 				}
@@ -210,7 +210,7 @@
 			{
 				"nombre": "aminoacid",
 				"relacion": "hija",
-				"edad": 10,
+				"edad": 50,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Lovely",
@@ -221,7 +221,7 @@
 			{
 				"nombre": "protein",
 				"relacion": "hija",
-				"edad": 20,
+				"edad": 60,
 				"actividades": [{
 						"tipo": "profesion",
 						"nombre": "Express",
@@ -232,7 +232,7 @@
 			{
 				"nombre": "gene",
 				"relacion": "hija",
-				"edad": 30,
+				"edad": 70,
 				"actividades": [{
 					"tipo": "profesion",
 					"nombre": "Evolve",
@@ -243,9 +243,9 @@
 			{
 				"nombre": "poiesis",
 				"relacion": "hijo",
-				"edad": -10,
+				"edad": 30,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Far",
 					"dias": [3]
 				}
@@ -254,9 +254,9 @@
 			{
 				"nombre": "body",
 				"relacion": "hijo",
-				"edad": -20,
+				"edad": 20,
 				"actividades": [{
-					"tipo": "profesion",
+					"tipo": "hobbie",
 					"nombre": "Excess",
 					"dias": [3]
 				}
@@ -265,9 +265,286 @@
 			{
 				"nombre": "weak",
 				"relacion": "hijo",
-				"edad": -30,
+				"edad": 10,
+				"actividades": [{
+						"tipo": "hobbie",
+						"nombre": "Twist",
+						"dias": [3]
+					}
+				]
+			}
+		]
+	}
+][	{
+		"familia": "flove",
+		"nodos": [{
+				"nombre": "Universal",
+				"relacion": "madre",
+				"edad": 40,
 				"actividades": [{
 						"tipo": "profesion",
+						"nombre": "Source",
+						"dias": [1]
+					}
+				]
+			},
+			{
+				"nombre": "End",
+				"relacion": "padre",
+				"edad": 0,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Lack",
+					"dias": [1]
+				}
+			]
+			},
+			{
+				"nombre": "flow",
+				"relacion": "hija",
+				"edad": 50,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Lovely",
+					"dias": [1]
+				}
+			]
+			},
+			{
+				"nombre": "motion",
+				"relacion": "hija",
+				"edad": 60,
+				"actividades": [{
+						"tipo": "profesion",
+						"nombre": "Express",
+						"dias": [1]
+					}
+				]
+			},
+			{
+				"nombre": "length",
+				"relacion": "hija",
+				"edad": 70,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Evolve",
+					"dias": [1]
+				}
+			]
+			},
+			{
+				"nombre": "create",
+				"relacion": "hijo",
+				"edad": 30,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Far",
+					"dias": [1]
+				}
+			]
+			},
+			{
+				"nombre": "ether",
+				"relacion": "hijo",
+				"edad": 20,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Excess",
+					"dias": [1]
+				}
+			]
+			}
+			,
+			{
+				"nombre": "god",
+				"relacion": "hijo",
+				"edad": 10,
+				"actividades": [{
+						"tipo": "hobbie",
+						"nombre": "Twist",
+						"dias": [1]
+					}
+				]
+			}
+		]
+	},
+	{
+		"familia": "real",
+		"nodos": [{
+				"nombre": "natural",
+				"relacion": "madre",
+				"edad": 40,
+				"actividades": [{
+						"tipo": "profesion",
+						"nombre": "Source",
+						"dias": [2]
+					}
+				]
+			},
+			{
+				"nombre": "hole",
+				"relacion": "padre",
+				"edad": 0,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Lack",
+					"dias": [2]
+				}
+			]
+			},
+			{
+				"nombre": "energy",
+				"relacion": "hija",
+				"edad": 50,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Lovely",
+					"dias": [2]
+				}
+			]
+			},
+			{
+				"nombre": "light",
+				"relacion": "hija",
+				"edad": 60,
+				"actividades": [{
+						"tipo": "profesion",
+						"nombre": "Express",
+						"dias": [2]
+					}
+				]
+			},
+			{
+				"nombre": "inertia",
+				"relacion": "hija",
+				"edad": 70,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Evolve",
+					"dias": [2]
+				}
+			]
+			},
+			{
+				"nombre": "form",
+				"relacion": "hijo",
+				"edad": 30,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Far",
+					"dias": [2]
+				}
+			]
+			},
+			{
+				"nombre": "entropy",
+				"relacion": "hijo",
+				"edad": 20,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Excess",
+					"dias": [2]
+				}
+			]
+			},
+			{
+				"nombre": "gravitino",
+				"relacion": "hijo",
+				"edad": 10,
+				"actividades": [{
+						"tipo": "hobbie",
+						"nombre": "Twist",
+						"dias": [2]
+					}
+				]
+			}
+		]
+	},
+	{
+		"familia": "cell",
+		"nodos": [{
+				"nombre": "Biological",
+				"relacion": "madre",
+				"edad": 40,
+				"actividades": [{
+						"tipo": "profesion",
+						"nombre": "Source",
+						"dias": [3]
+					}
+				]
+			},
+			{
+				"nombre": "death",
+				"relacion": "padre",
+				"edad": 0,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Lack",
+					"dias": [3]
+				}
+			]
+			},
+			{
+				"nombre": "aminoacid",
+				"relacion": "hija",
+				"edad": 50,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Lovely",
+					"dias": [3]
+				}
+			]
+			},
+			{
+				"nombre": "protein",
+				"relacion": "hija",
+				"edad": 60,
+				"actividades": [{
+						"tipo": "profesion",
+						"nombre": "Express",
+						"dias": [3]
+					}
+				]
+			},
+			{
+				"nombre": "gene",
+				"relacion": "hija",
+				"edad": 70,
+				"actividades": [{
+					"tipo": "profesion",
+					"nombre": "Evolve",
+					"dias": [3]
+				}
+			]
+			},
+			{
+				"nombre": "poiesis",
+				"relacion": "hijo",
+				"edad": 30,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Far",
+					"dias": [3]
+				}
+			]
+			},
+			{
+				"nombre": "body",
+				"relacion": "hijo",
+				"edad": 20,
+				"actividades": [{
+					"tipo": "hobbie",
+					"nombre": "Excess",
+					"dias": [3]
+				}
+			]
+			},
+			{
+				"nombre": "weak",
+				"relacion": "hijo",
+				"edad": 10,
+				"actividades": [{
+						"tipo": "hobbie",
 						"nombre": "Twist",
 						"dias": [3]
 					}
